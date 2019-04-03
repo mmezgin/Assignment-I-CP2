@@ -1,0 +1,2 @@
+Name: Mert Surname: ezgin StdId: B1605.090030 Grade1: 100.0 Grade2: 90.0 Grade3: 80.0 Grade4: 70.0 Grade5: 60.0 GPA: 80.0 *
+Name: ufuk Surname: çakýcý StdId: B1605.090031 Grade1: 0.0 Grade2: 1.0 Grade3: 20.0 Grade4: 30.0 Grade5: 40.0 GPA: 18.2 *
